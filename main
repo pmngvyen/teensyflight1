@@ -3,7 +3,7 @@
 //========================================================================================================================//
 
 //Uncomment only one receiver type
-#define USE_PWM_RX
+//define USE_PWM_RX
 //#define USE_PPM_RX
 //#define USE_SBUS_RX
 //#define USE_DSM_RX
